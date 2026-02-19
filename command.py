@@ -83,7 +83,7 @@ def allCommands(message=1):
     except Exception as e:
         print("ERROR:", e)
 
-    eel.ShowHood()  
+    eel.ShowHood()      
 
     
  
